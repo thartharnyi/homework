@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+.container{
+    
+    max-width: 600px;
+    margin: auto;
+}
+
+.bg-green{
+    background-color: lightgreen;
+    padding: 20px;
+    margin:20px;
+}
