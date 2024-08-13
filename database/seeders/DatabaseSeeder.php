@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
         
         // User::factory(4)->has(Blog::factory(3))->create();
 
-        // Blog::factory(30)->create();
+        Blog::factory(30)->create();
 
         // category::factory(30)->create();
 
